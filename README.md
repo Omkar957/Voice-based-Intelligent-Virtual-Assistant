@@ -1,5 +1,7 @@
 # Voice-based-Intelligent-Virtual-Assistant
-This Proposed project will help the elders to operate the daily functions using thier natural voice commands.To Use this Virtual Assistant the user doesn't need to learn how to operate the commands can be given just by voice.The user would just need to say "Wikipedia Animals" and the assistant will serach for the information related to animals and display it with human understable language. This would be a really helfull for the elderly people.
+<pre>Maven GUI</pre>
+![](Screenshots/Display.PNG)
+<pre>This Proposed project will help the elders to operate the daily functions using thier natural voice commands.To Use this Virtual Assistant the user doesn't need to learn how to operate the commands can be given just by voice.The user would just need to say "Wikipedia Animals" and the assistant will serach for the information related to animals and display it with human understable language. This would be a really helfull for the elderly people.</pre>
 Following functions can be done by this virtual assistant by voice commands:-
 <pre>1)Setting an Alarm</pre>
 ![](Screenshots/Alarm.png)
@@ -20,6 +22,6 @@ Following functions can be done by this virtual assistant by voice commands:-
 <pre>9)Hear Music</pre>
 ![](Screenshots/Music.png)
 <pre>10)Simple calculations</pre>
-![](Screenshots/Calculator.png)
+![](Screenshots/Calculator.PNG)
 <pre>11)rReading a book</pre>
-![](Screenshots/Read.png)
+![](Screenshots/Read.PNG)
